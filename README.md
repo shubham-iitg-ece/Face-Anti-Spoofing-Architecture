@@ -1,11 +1,11 @@
 # Face-Anti-Spoofing-Architecture
 
-### Under the guidance of Dr. Kannan Karthik, Associate Professor, Dept. of EEE, IIT Guwahati
+### Under the guidance of [Dr. Kannan Karthik, Associate Professor, Dept. of EEE, IIT Guwahati](http://www.iitg.ac.in/engfac/k.karthik/ "Dr. Kannan Karthik's Homepage")
 
 ### BTP Members:
 
-1. Shubham, ECE, IITG
-2. Shubham Lohiya, ECE, IITG
+1. [**Shubham, ECE, IITG**](https://www.linkedin.com/in/shubham-iitg-ece/ "Shubham's LinkedIn")
+2. [**Shubham Lohiya, ECE, IITG**](https://www.linkedin.com/in/shubham-lohiya/ "Shubham Lohiya's LinkedIn")
 
 ### Application layer:
 
