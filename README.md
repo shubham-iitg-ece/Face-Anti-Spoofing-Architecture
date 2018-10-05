@@ -1,5 +1,12 @@
 # Face-Anti-Spoofing-Architecture
 
+### Under the guidance of Dr. Kannan Karthik, Associate Professor, Dept. of EEE, IIT Guwahati
+
+### BTP Members:
+
+1. Shubham, ECE, IITG
+2. Shubham Lohiya, ECE, IITG
+
 ### Application layer:
 
 Facial anti-spoofing has been essential in recent times, with the natural integration of biometric-based access control systems, either based on fingerprint or face in SMART PHONES. The same anti-spoofing frame (implemented at a slightly advanced level), is also required in unmanned surveillance stations to detect the presence of disguises or prosthetics deployed by illegal traffickers to avoid being snapped by hidden cameras.
