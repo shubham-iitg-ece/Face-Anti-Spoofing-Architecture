@@ -42,4 +42,5 @@ Our work till now focuses on classifying any given input image as real or spoofe
 ### References
 
 [1] J. Galbally and S. Marcel, "Face Anti-spoofing Based on General Image Quality Assessment," 2014 22nd International Conference on Pattern Recognition, Stockholm, 2014, pp. 1173-1178.
+
 [2] Trefný, Jiří & Matas, Jiri. (2010). Extended Set of Local Binary Patterns for Rapid Object Detection. 15th Computer Vision Winter Workshop, Volume 2010.
