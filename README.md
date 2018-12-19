@@ -39,3 +39,7 @@ In the work presented, we have mainly focussed on sharpness, locality and textur
 
 Our work till now focuses on classifying any given input image as real or spoofed face image, hence a non-referential model. But as stated in the problem statement, our final goal is to build an referential model for an organization. We have planned to achieve this through building feature set for each individual of the organization, and do a cluster analysis to validate the person as an employee of the organization(which he/she has stated to be). 
 
+### References
+
+[1] J. Galbally and S. Marcel, "Face Anti-spoofing Based on General Image Quality Assessment," 2014 22nd International Conference on Pattern Recognition, Stockholm, 2014, pp. 1173-1178.
+[2] Trefný, Jiří & Matas, Jiri. (2010). Extended Set of Local Binary Patterns for Rapid Object Detection. 15th Computer Vision Winter Workshop, Volume 2010.
