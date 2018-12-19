@@ -25,3 +25,17 @@ In our problem, we propose to develop a REFERENCE based anti-spoofing system for
 
 Once the base-feature set for anti-spoofing is designed and calibrated, the problem becomes tantamount to an outlier detection algorithm, assuming that there is sufficient information in the database to learn the statistical model for SUBJECT-SPECIFIC NATURALNESS  (from the point of view of the face). Any attempt to produce a SPOOFED version of the face should be detected by this anti-spoofing algorithm by treating this test-query set as an outlier. Ideas involving 1-class SVM and other anomaly detection algorithms will be explored.
 
+### Block Diagram of Project:
+
+![alt text](https://github.com/shubham-iitg-ece/Face-Anti-Spoofing-Architecture/blob/master/report.png "Face Anti-Spoofing Experimental Set-Up")
+
+### Work Done until Aug-Nov 2018 Semester:
+
+In this work, we have used CASIA face anti-spoofing dataset as base database. The dataset is divided into 80:20 train-test split. For the training data, statistical features are calculated and concatenated to form a 14-dimensional feature vector which is inputted to train the Support Vector Machine (SVM). Subsequent to the offline training, same feature vectors are created for the test images and is tested using the trained SVM. For the second module, similar approach is adopted. We compute a 16-dimensional feature for each training image. We compute LBP histogram (8-bins) and t-LBP (8-bins), further normalized and concatenates them to the form the feature vector. Offline training was done, post which testing was done using test dataset.
+
+### Future Works
+
+In the work presented, we have mainly focussed on sharpness, locality and textural based features. We have planned to work on image distortion analysis which consists of designing specularity, color and contrast based features for the purpose of classification to real and spoofed faces. 
+
+Our work till now focuses on classifying any given input image as real or spoofed face image, hence a non-referential model. But as stated in the problem statement, our final goal is to build an referential model for an organization. We have planned to achieve this through building feature set for each individual of the organization, and do a cluster analysis to validate the person as an employee of the organization(which he/she has stated to be). 
+
